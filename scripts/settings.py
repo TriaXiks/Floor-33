@@ -1,0 +1,20 @@
+# Window
+WIDTH, HEIGHT = 1200, 800
+TITLE = "Floor 33"
+FPS = 30
+RESIZABLE = False
+
+# Player
+PLAYER_SPEED = 1
+PLAYER_ANGLE = 0
+PLAYER_ANGLE_SPEED = 0.03
+PLAYER_HP = 8
+PLAYER_DP = -1
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+GRAY = (120, 120, 120)
