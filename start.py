@@ -1,5 +1,5 @@
-from scripts.settings import *
-from scripts.players import Player
+from settings import *
+from scripts.core.players import Player
 from subprocess import run
 import pygame as pg
 

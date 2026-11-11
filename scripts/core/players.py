@@ -1,4 +1,4 @@
-from scripts.settings import *
+from settings import *
 import pygame as pg
 import os
 
